@@ -1,0 +1,10 @@
+# testing-qa Skills
+
+Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06-16T15:33:13.781Z.
+
+| Skill | Category | Stars | Function | Links |
+| --- | --- | ---: | --- | --- |
+| [systematic-debugging](https://aiagentskills.net/skill/obra-superpowers-systematic-debugging) | testing-qa | 228794 | Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes | [Repository](https://github.com/obra/superpowers) / [Skill file](https://github.com/obra/superpowers/blob/HEAD/skills/systematic-debugging/SKILL.md) |
+| [test-driven-development](https://aiagentskills.net/skill/obra-superpowers-test-driven-development) | testing-qa | 228794 | Use when implementing any feature or bugfix, before writing implementation code | [Repository](https://github.com/obra/superpowers) / [Skill file](https://github.com/obra/superpowers/blob/HEAD/skills/test-driven-development/SKILL.md) |
+| [writing-plans](https://aiagentskills.net/skill/obra-superpowers-writing-plans) | testing-qa | 228794 | Use when you have a spec or requirements for a multi-step task, before touching code | [Repository](https://github.com/obra/superpowers) / [Skill file](https://github.com/obra/superpowers/blob/HEAD/skills/writing-plans/SKILL.md) |
+| [soultrace](https://aiagentskills.net/skill/soultrace-ai-soultrace-skill-soultrace) | testing-qa | 20 | Take a personality assessment via the SoulTrace API. Use when the user wants to take a personality test, discover their psychological archetype, understand their personality traits, or get a color-based personality profile. The API uses a 5-color psychological model (White=structure, Blue=understanding, Black=agency, Red=intensity, Green=connection) with Bayesian adaptive question selection to classify users into one of 25 archetypes. Triggers on: personality test, personality assessment, what's my personality, take a quiz, archetype test, color personality, soultrace. | [Repository](https://github.com/soultrace-ai/soultrace-skill) / [Skill file](https://github.com/soultrace-ai/soultrace-skill/blob/HEAD/skills/soultrace/SKILL.md) |
