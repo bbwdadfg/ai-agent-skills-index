@@ -4,7 +4,7 @@ A daily generated public index of AI agent skills. This repository only lists sk
 
 - Website: [https://aiagentskills.net](https://aiagentskills.net)
 - Total skills: 100
-- Last updated: 2026-06-16T15:33:13.781Z
+- Last updated: 2026-06-17T05:17:03.420Z
 
 ## Categories
 
