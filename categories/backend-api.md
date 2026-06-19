@@ -1,6 +1,6 @@
 # backend-api Skills
 
-Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06-17T05:17:03.420Z.
+Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06-19T15:47:04.700Z.
 
 | Skill | Category | Stars | Function | Links |
 | --- | --- | ---: | --- | --- |
@@ -21,3 +21,26 @@ Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06
 | [happyhorse-1-0](https://aiagentskills.net/skill/agentspace-so-runcomfy-agent-skills-happyhorse-1-0) | backend-api | 20 | > | [Repository](https://github.com/agentspace-so/runcomfy-agent-skills) / [Skill file](https://github.com/agentspace-so/runcomfy-agent-skills/blob/HEAD/happyhorse-1-0/SKILL.md) |
 | [nano-banana-edit](https://aiagentskills.net/skill/agentspace-so-runcomfy-agent-skills-nano-banana-edit) | backend-api | 20 | > | [Repository](https://github.com/agentspace-so/runcomfy-agent-skills) / [Skill file](https://github.com/agentspace-so/runcomfy-agent-skills/blob/HEAD/nano-banana-edit/SKILL.md) |
 | [video-edit](https://aiagentskills.net/skill/agentspace-so-runcomfy-agent-skills-video-edit) | backend-api | 20 | > | [Repository](https://github.com/agentspace-so/runcomfy-agent-skills) / [Skill file](https://github.com/agentspace-so/runcomfy-agent-skills/blob/HEAD/video-edit/SKILL.md) |
+| [face-swap](https://aiagentskills.net/skill/doany-ai-skills-face-swap) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/face-swap/SKILL.md) |
+| [face-swap](https://aiagentskills.net/skill/runcomfy-com-skills-face-swap) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/face-swap/SKILL.md) |
+| [gpt-image-edit](https://aiagentskills.net/skill/doany-ai-skills-gpt-image-edit) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/gpt-image-edit/SKILL.md) |
+| [gpt-image-edit](https://aiagentskills.net/skill/runcomfy-com-skills-gpt-image-edit) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/gpt-image-edit/SKILL.md) |
+| [happyhorse-1-0](https://aiagentskills.net/skill/doany-ai-skills-happyhorse-1-0) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/happyhorse-1-0/SKILL.md) |
+| [happyhorse-1-0](https://aiagentskills.net/skill/runcomfy-com-skills-happyhorse-1-0) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/happyhorse-1-0/SKILL.md) |
+| [image-inpainting](https://aiagentskills.net/skill/doany-ai-skills-image-inpainting) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/image-inpainting/SKILL.md) |
+| [image-inpainting](https://aiagentskills.net/skill/runcomfy-com-skills-image-inpainting) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/image-inpainting/SKILL.md) |
+| [image-outpainting](https://aiagentskills.net/skill/doany-ai-skills-image-outpainting) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/image-outpainting/SKILL.md) |
+| [image-outpainting](https://aiagentskills.net/skill/runcomfy-com-skills-image-outpainting) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/image-outpainting/SKILL.md) |
+| [kling-3-0](https://aiagentskills.net/skill/doany-ai-skills-kling-3-0) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/kling-3-0/SKILL.md) |
+| [kling-3-0](https://aiagentskills.net/skill/runcomfy-com-skills-kling-3-0) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/kling-3-0/SKILL.md) |
+| [lipsync](https://aiagentskills.net/skill/doany-ai-skills-lipsync) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/lipsync/SKILL.md) |
+| [nano-banana-edit](https://aiagentskills.net/skill/doany-ai-skills-nano-banana-edit) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/nano-banana-edit/SKILL.md) |
+| [nano-banana-edit](https://aiagentskills.net/skill/runcomfy-com-skills-nano-banana-edit) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/nano-banana-edit/SKILL.md) |
+| [relight](https://aiagentskills.net/skill/doany-ai-skills-relight) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/relight/SKILL.md) |
+| [runcomfy-cli](https://aiagentskills.net/skill/doany-ai-skills-runcomfy-cli) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/runcomfy-cli/SKILL.md) |
+| [video-edit](https://aiagentskills.net/skill/doany-ai-skills-video-edit) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/video-edit/SKILL.md) |
+| [video-edit](https://aiagentskills.net/skill/runcomfy-com-skills-video-edit) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/video-edit/SKILL.md) |
+| [video-extend](https://aiagentskills.net/skill/doany-ai-skills-video-extend) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/video-extend/SKILL.md) |
+| [video-extend](https://aiagentskills.net/skill/runcomfy-com-skills-video-extend) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/video-extend/SKILL.md) |
+| [video-inpainting](https://aiagentskills.net/skill/doany-ai-skills-video-inpainting) | backend-api | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/video-inpainting/SKILL.md) |
+| [video-inpainting](https://aiagentskills.net/skill/runcomfy-com-skills-video-inpainting) | backend-api | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/video-inpainting/SKILL.md) |

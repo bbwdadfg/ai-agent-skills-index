@@ -1,6 +1,6 @@
 # prompting-reasoning Skills
 
-Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06-17T05:17:03.420Z.
+Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06-19T15:47:04.700Z.
 
 | Skill | Category | Stars | Function | Links |
 | --- | --- | ---: | --- | --- |
@@ -18,3 +18,16 @@ Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06
 | [image-to-video](https://aiagentskills.net/skill/agentspace-so-runcomfy-agent-skills-image-to-video) | prompting-reasoning | 20 | > | [Repository](https://github.com/agentspace-so/runcomfy-agent-skills) / [Skill file](https://github.com/agentspace-so/runcomfy-agent-skills/blob/HEAD/image-to-video/SKILL.md) |
 | [seedance-v2](https://aiagentskills.net/skill/agentspace-so-runcomfy-agent-skills-seedance-v2) | prompting-reasoning | 20 | > | [Repository](https://github.com/agentspace-so/runcomfy-agent-skills) / [Skill file](https://github.com/agentspace-so/runcomfy-agent-skills/blob/HEAD/seedance-v2/SKILL.md) |
 | [wan-2-7](https://aiagentskills.net/skill/agentspace-so-runcomfy-agent-skills-wan-2-7) | prompting-reasoning | 20 | > | [Repository](https://github.com/agentspace-so/runcomfy-agent-skills) / [Skill file](https://github.com/agentspace-so/runcomfy-agent-skills/blob/HEAD/wan-2-7/SKILL.md) |
+| [ai-avatar-video](https://aiagentskills.net/skill/doany-ai-skills-ai-avatar-video) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/ai-avatar-video/SKILL.md) |
+| [ai-video-generation](https://aiagentskills.net/skill/doany-ai-skills-ai-video-generation) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/ai-video-generation/SKILL.md) |
+| [elevenlabs-music-generation](https://aiagentskills.net/skill/doany-ai-skills-elevenlabs-music-generation) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/elevenlabs-music-generation/SKILL.md) |
+| [elevenlabs-music-generation](https://aiagentskills.net/skill/runcomfy-com-skills-elevenlabs-music-generation) | prompting-reasoning | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/elevenlabs-music-generation/SKILL.md) |
+| [flux-2-klein](https://aiagentskills.net/skill/doany-ai-skills-flux-2-klein) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/flux-2-klein/SKILL.md) |
+| [flux-2-klein](https://aiagentskills.net/skill/runcomfy-com-skills-flux-2-klein) | prompting-reasoning | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/flux-2-klein/SKILL.md) |
+| [flux-kontext](https://aiagentskills.net/skill/doany-ai-skills-flux-kontext) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/flux-kontext/SKILL.md) |
+| [flux-kontext](https://aiagentskills.net/skill/runcomfy-com-skills-flux-kontext) | prompting-reasoning | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/flux-kontext/SKILL.md) |
+| [image-to-video](https://aiagentskills.net/skill/doany-ai-skills-image-to-video) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/image-to-video/SKILL.md) |
+| [image-to-video](https://aiagentskills.net/skill/runcomfy-com-skills-image-to-video) | prompting-reasoning | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/image-to-video/SKILL.md) |
+| [seedance-v2](https://aiagentskills.net/skill/doany-ai-skills-seedance-v2) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/seedance-v2/SKILL.md) |
+| [wan-2-7](https://aiagentskills.net/skill/doany-ai-skills-wan-2-7) | prompting-reasoning | 2 | > | [Repository](https://github.com/doany-ai/skills) / [Skill file](https://github.com/doany-ai/skills/blob/HEAD/wan-2-7/SKILL.md) |
+| [wan-2-7](https://aiagentskills.net/skill/runcomfy-com-skills-wan-2-7) | prompting-reasoning | 2 | > | [Repository](https://github.com/runcomfy-com/skills) / [Skill file](https://github.com/runcomfy-com/skills/blob/HEAD/wan-2-7/SKILL.md) |

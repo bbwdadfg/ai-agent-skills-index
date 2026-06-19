@@ -1,6 +1,6 @@
 # browser-web Skills
 
-Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06-17T05:17:03.420Z.
+Generated from [https://aiagentskills.net](https://aiagentskills.net) on 2026-06-19T15:47:04.700Z.
 
 | Skill | Category | Stars | Function | Links |
 | --- | --- | ---: | --- | --- |
